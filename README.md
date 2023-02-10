@@ -14,7 +14,7 @@ The PCBs are designed in KiCad
 
 ## Building
 
-The interactive BOM is can be viewed [here](https://htmlpreview.github.io/?https://github.com/arfrie22/2x2macropad_pcbs/tree/main/pcb/bom/ibom.html).
+The interactive BOM is can be viewed [here](https://htmlpreview.github.io/?https://raw.githubusercontent.com/arfrie22/2x2macropad_pcbs/main/pcb/bom/ibom.html).
 
 There are 3 pcbs in this project:
 
