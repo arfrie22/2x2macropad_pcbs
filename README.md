@@ -21,3 +21,11 @@ There are 3 pcbs in this project:
 - The main pcb, which contains all of the components
 - The top plate, which holds the keyswitches
 - The bottom plate, which protects the components
+
+## Info
+
+This project was created for a workshop hosted by the UMass All Campus Makerspace. The keyboard was designed to have as many parts as I could reasonably have be though-hole, while keeping the cost relativly low.
+
+## Pictures
+![Macropad forwards with no rgb](https://raw.githubusercontent.com/arfrie22/2x2macropad_pcbs/main/media/1.png)
+![Macropad backwards with rgb](https://raw.githubusercontent.com/arfrie22/2x2macropad_pcbs/main/media/2.png)
