@@ -29,3 +29,4 @@ This project was created for a workshop hosted by the UMass All Campus Makerspac
 ## Pictures
 ![Macropad forwards with no rgb](https://raw.githubusercontent.com/arfrie22/2x2macropad_pcbs/main/media/1.png)
 ![Macropad backwards with rgb](https://raw.githubusercontent.com/arfrie22/2x2macropad_pcbs/main/media/2.png)
+![Macropad rotated with rgb](https://raw.githubusercontent.com/arfrie22/2x2macropad_pcbs/main/media/3.png)
